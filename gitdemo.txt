@@ -1,1 +1,2 @@
 it is demo for git
+i going to change this file to view modified result
